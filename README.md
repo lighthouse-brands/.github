@@ -1,4 +1,3 @@
-# .github
 # Mission
 
 >Get Customers _FASTER_ and keep them _LONGER_.
